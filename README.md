@@ -114,3 +114,5 @@ Disclosure: the Photo Intelligence Lab is run by Narkis.
 ## License
 
 CC BY 4.0. Cite as: *Photo Intelligence Lab by Narkis, "Headshot prices by city", 2026-11-12, https://narkis.ai/research/headshot-costs-by-city*.
+
+Also on Kaggle: https://www.kaggle.com/datasets/photointelligencelab/headshot-prices-by-city
